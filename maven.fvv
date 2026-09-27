@@ -1,4 +1,5 @@
-Domain = "maven.oom-wg.dev"
+Domain = "mvn.pkg.pm"
+
 Repos = [
 	{
 		Url = "https://github.com/FVV-Lang/FVV.kt"
