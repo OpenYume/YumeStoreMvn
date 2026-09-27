@@ -2,12 +2,12 @@ Domain = "mvn.pkg.pm"
 
 Repos = [
 	{
-		Url = "https://github.com/FVV-Lang/FVV.kt"
+		Url = "https://github.com/ShIroRRen/ShiroSU-FYL.git"
 	}
 	{
-		Url = "https://github.com/OOM-WG/ShiroSU-FYL.git"
+		Url = "https://github.com/OpenYume/FVV.kt"
 	}
 	{
-		Url = "https://github.com/NGA-SDK/NGA-SDK.kt"
+		Url = "https://github.com/OpenYume/NGA-SDK.kt"
 	}
 ]
