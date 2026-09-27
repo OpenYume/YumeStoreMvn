@@ -15,7 +15,7 @@ import (
 	"strings"
 	"sync"
 
-	"app.niggergo.work/fvv"
+	"fvvlang.sbs/fvv"
 )
 
 type Config struct {
